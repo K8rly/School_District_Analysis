@@ -9,8 +9,10 @@ The purpose of this analysis was to update the School District Summary in order 
   How is the district summary affected? The district summary did not significantly change based on the new analysis. There was a slight difference in scores, but around only a tenth of a percentage point.
   How is the school summary affected? The school summary was significantly different after the new analysis. The passing reading and math scores were more than 25% lower than the original summary after the ninth grade scores were replaced with "NaN" as seen below:
   
+  ![Original School Summary](School_summary_original.png]
   
-  
+  ![Updated School Summary](School_summary_updated.png]
+    
   
   How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? Replacing the ninth graders' math and reading scores moved Thomas High School to a much lower position in relation to the other schools.
   How does replacing the ninth-grade scores affect the following:
